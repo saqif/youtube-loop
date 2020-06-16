@@ -1,0 +1,12 @@
+#watch {
+	background-color: black !important;
+	padding-top: 0 !important;
+	padding-bottom: 0 !important;
+    border-radius: 0 !important;
+}
+
+.mcustom{
+	position: absolute !important;
+    bottom: 10px !important;
+    left: 10px;
+}
